@@ -1,4 +1,4 @@
-# app-imobiliaria
+# Financial Manager
 
 Aplicativo para gerenciamento de financas pessoais
 
